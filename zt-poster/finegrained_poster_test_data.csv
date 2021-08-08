@@ -1,0 +1,23 @@
+,movie,genre
+0,jumanjiwelcometothejungle,"['adventure', 'comedy']"
+1,paul,"['comedy', 'scifi']"
+2,shaolinsoccer,"['comedy', 'martialarts']"
+3,spectre,"['action', 'spy']"
+4,sputnik,"['horror', 'scifi']"
+5,thecore,"['disaster', 'scifi']"
+6,thediscovery,"['romance', 'scifi']"
+7,theedgeofseventeen,['comedy']
+8,thefastandthefurioustokyodrift,['action']
+9,thefinalmaster,"['action', 'martialarts']"
+10,thekissingbooth,"['comedy', 'romance']"
+11,theperfectstorm,['disaster']
+12,thephotograph,['romance']
+13,thering,['horror']
+14,theseventhadventuresofsinbad,['adventure']
+15,thismeanswar,"['comedy', 'spy']"
+16,triplefrontier,"['action', 'adventure']"
+17,tronlegacy,"['action', 'scifi']"
+18,vampiresvsthebronx,"['comedy', 'horror']"
+19,womb,['scifi']
+20,worldwarz,"['action', 'horror']"
+21,zoolander2,"['action', 'comedy']"

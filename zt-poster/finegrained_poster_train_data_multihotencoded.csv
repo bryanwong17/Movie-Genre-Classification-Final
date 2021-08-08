@@ -1,0 +1,89 @@
+,movie,genre,disaster,scifi,adventure,comedy,action,horror,romance,spy,martialarts
+0,100earthquake,['disaster'],1,0,0,0,0,0,0,0,0
+1,2012,"['disaster', 'scifi']",1,1,0,0,0,0,0,0,0
+2,advcom-rio,"['adventure', 'comedy']",0,0,1,1,0,0,0,0,0
+3,adventuresinzambezia,['adventure'],0,0,1,0,0,0,0,0,0
+4,alitabattleangel,"['scifi', 'action']",0,1,0,0,1,0,0,0,0
+5,annihilation,"['scifi', 'horror']",0,1,0,0,0,1,0,0,0
+6,awalktoremember,['romance'],0,0,0,0,0,0,1,0,0
+7,billandtedfacethemusic,"['scifi', 'comedy']",0,1,0,1,0,0,0,0,0
+8,casinoroyale,"['action', 'spy']",0,0,0,0,1,0,0,1,0
+9,centralintelligence,"['comedy', 'action']",0,0,0,1,1,0,0,0,0
+10,coldskin,"['scifi', 'horror']",0,1,0,0,0,1,0,0,0
+11,crazyrichasians,"['comedy', 'romance']",0,0,0,1,0,0,1,0,0
+12,dayofthedeadbloodline,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+13,deepbluesea2,"['scifi', 'horror']",0,1,0,0,0,1,0,0,0
+14,divergent,"['scifi', 'action']",0,1,0,0,1,0,0,0,0
+15,downsizing,"['scifi', 'comedy']",0,1,0,1,0,0,0,0,0
+16,enterthefatdragon,"['comedy', 'martialarts']",0,0,0,1,0,0,0,0,1
+17,epic,"['adventure', 'action']",0,0,1,0,1,0,0,0,0
+18,equals,"['scifi', 'romance']",0,1,0,0,0,0,1,0,0
+19,extraction,['action'],0,0,0,0,1,0,0,0,0
+20,fastandfurious4,['action'],0,0,0,0,1,0,0,0,0
+21,flood,['disaster'],1,0,0,0,0,0,0,0,0
+22,forbiddencitycop,"['comedy', 'martialarts']",0,0,0,1,0,0,0,0,1
+23,furious7,['action'],0,0,0,0,1,0,0,0,0
+24,geostorm,"['disaster', 'scifi']",1,1,0,0,0,0,0,0,0
+25,getsmart,"['comedy', 'spy']",0,0,0,1,0,0,0,1,0
+26,goosebumps2hauntedhalloween,"['comedy', 'horror']",0,0,0,1,0,1,0,0,0
+27,grownups,['comedy'],0,0,0,1,0,0,0,0,0
+28,gulliverstravels,"['adventure', 'comedy']",0,0,1,1,0,0,0,0,0
+29,hailcaesar,['comedy'],0,0,0,1,0,0,0,0,0
+30,her,"['scifi', 'romance']",0,1,0,0,0,0,1,0,0
+31,highrise,['scifi'],0,1,0,0,0,0,0,0,0
+32,holidate,"['comedy', 'romance']",0,0,0,1,0,0,1,0,0
+33,home,"['scifi', 'comedy']",0,1,0,1,0,0,0,0,0
+34,hottubtimemachine,"['scifi', 'comedy']",0,1,0,1,0,0,0,0,0
+35,indianajonesandthelastcrusade,"['adventure', 'action']",0,0,1,0,1,0,0,0,0
+36,intothestorm,['disaster'],1,0,0,0,0,0,0,0,0
+37,iorigins,"['scifi', 'romance']",0,1,0,0,0,0,1,0,0
+38,ipman4thefinale,"['action', 'martialarts']",0,0,0,0,1,0,0,0,1
+39,jackthegiantslayer,['adventure'],0,0,1,0,0,0,0,0,0
+40,jasonbourne,['action'],0,0,0,0,1,0,0,0,0
+41,johnnyenglish,"['comedy', 'spy']",0,0,0,1,0,0,0,1,0
+42,journeytothewestthedemonsstrikeback,"['adventure', 'comedy']",0,0,1,1,0,0,0,0,0
+43,jumanjithenextlevel,"['adventure', 'comedy']",0,0,1,1,0,0,0,0,0
+44,keepingupwiththejoneses,"['comedy', 'action']",0,0,0,1,1,0,0,0,0
+45,kickboxervengeance,"['action', 'martialarts']",0,0,0,0,1,0,0,0,1
+46,kingsmanthesecretservice,"['comedy', 'spy']",0,0,0,1,0,0,0,1,0
+47,kungfuhustle,"['comedy', 'martialarts']",0,0,0,1,0,0,0,0,1
+48,lalaland,"['comedy', 'romance']",0,0,0,1,0,0,1,0,0
+49,lastchristmas,"['comedy', 'romance']",0,0,0,1,0,0,1,0,0
+50,lifeofpi,['adventure'],0,0,1,0,0,0,0,0,0
+51,madmaxfuryroad,"['scifi', 'action']",0,1,0,0,1,0,0,0,0
+52,masterztheipmanlegacy,"['action', 'martialarts']",0,0,0,0,1,0,0,0,1
+53,missionimpossible,"['action', 'spy']",0,0,0,0,1,0,0,1,0
+54,missionimpossiblefallout,"['action', 'spy']",0,0,0,0,1,0,0,1,0
+55,missionimpossibleroguenation,"['action', 'spy']",0,0,0,0,1,0,0,1,0
+56,mortalkombat,"['action', 'martialarts']",0,0,0,0,1,0,0,0,1
+57,mrandmrssmith,"['comedy', 'action']",0,0,0,1,1,0,0,0,0
+58,mrsdoubtfire,['comedy'],0,0,0,1,0,0,0,0,0
+59,ouija,['horror'],0,0,0,0,0,1,0,0,0
+60,oxygen,['scifi'],0,1,0,0,0,0,0,0,0
+61,passengers,"['scifi', 'romance']",0,1,0,0,0,0,1,0,0
+62,pussinboots,['adventure'],0,0,1,0,0,0,0,0,0
+63,rememberme,['romance'],0,0,0,0,0,0,1,0,0
+64,rushhour2,"['comedy', 'martialarts']",0,0,0,1,0,0,0,0,1
+65,sanandreas,['disaster'],1,0,0,0,0,0,0,0,0
+66,schoolofrock,['comedy'],0,0,0,1,0,0,0,0,0
+67,seafever,"['scifi', 'horror']",0,1,0,0,0,1,0,0,0
+68,sharknado,"['disaster', 'scifi']",1,1,0,0,0,0,0,0,0
+69,shaunofthedead,"['comedy', 'horror']",0,0,0,1,0,1,0,0,0
+70,skyline,"['disaster', 'scifi']",1,1,0,0,0,0,0,0,0
+71,theconjuring,['horror'],0,0,0,0,0,1,0,0,0
+72,thecurseoflallorona,['horror'],0,0,0,0,0,1,0,0,0
+73,thedeaddontdie,"['comedy', 'horror']",0,0,0,1,0,1,0,0,0
+74,thefaultinourstars,['romance'],0,0,0,0,0,0,1,0,0
+75,thefirstpurge,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+76,thehungergames,"['scifi', 'action']",0,1,0,0,1,0,0,0,0
+77,themazerunner,['scifi'],0,1,0,0,0,0,0,0,0
+78,themummy,"['adventure', 'action']",0,0,1,0,1,0,0,0,0
+79,themummytombofthedragonemperor,"['adventure', 'action']",0,0,1,0,1,0,0,0,0
+80,thenotebook,['romance'],0,0,0,0,0,0,1,0,0
+81,thenun,['horror'],0,0,0,0,0,1,0,0,0
+82,thepurgeelectionyear,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+83,thespies,"['comedy', 'spy']",0,0,0,1,0,0,0,1,0
+84,truememoirsofaninternationalassassin,"['comedy', 'action']",0,0,0,1,1,0,0,0,0
+85,underwaterbloodwars,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+86,vampireacademy,"['comedy', 'horror']",0,0,0,1,0,1,0,0,0
+87,voyagers,['scifi'],0,1,0,0,0,0,0,0,0

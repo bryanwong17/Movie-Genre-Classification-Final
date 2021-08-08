@@ -1,0 +1,17 @@
+﻿,movie,genre,disaster,scifi,comedy,action,horror,romance,spy,martialarts,
+0,themazerunner,['scifi'],0,1,0,0,0,0,0,0,0
+1,themummy,"['adventure', 'action']",0,0,1,0,1,0,0,0,0
+2,themummytombofthedragonemperor,"['adventure', 'action']",0,0,1,0,1,0,0,0,0
+3,thenotebook,['romance'],0,0,0,0,0,0,1,0,0
+4,thenun,['horror'],0,0,0,0,0,1,0,0,0
+5,thepurgeelectionyear,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+6,thespies,"['comedy', 'spy']",0,0,0,1,0,0,0,1,0
+7,truememoirsofaninternationalassassin,"['comedy', 'action']",0,0,0,1,1,0,0,0,0
+8,underwaterbloodwars,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+9,vampireacademy,"['comedy', 'horror']",0,0,0,1,0,1,0,0,0
+10,voyagers,['scifi'],0,1,0,0,0,0,0,0,0
+11,tronlegacy,"['scifi', 'action']",0,1,0,0,1,0,0,0,0
+12,vampiresvsthebronx,"['comedy', 'horror']",0,0,0,1,0,1,0,0,0
+13,womb,['scifi'],0,1,0,0,0,0,0,0,0
+14,worldwarz,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+15,zoolander2,"['comedy', 'action']",0,0,0,1,1,0,0,0,0

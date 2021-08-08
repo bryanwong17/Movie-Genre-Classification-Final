@@ -1,0 +1,23 @@
+,movie,genre,disaster,scifi,adventure,comedy,action,horror,romance,spy,martialarts
+0,jumanjiwelcometothejungle,"['adventure', 'comedy']",0,0,1,1,0,0,0,0,0
+1,paul,"['scifi', 'comedy']",0,1,0,1,0,0,0,0,0
+2,shaolinsoccer,"['comedy', 'martialarts']",0,0,0,1,0,0,0,0,1
+3,spectre,"['action', 'spy']",0,0,0,0,1,0,0,1,0
+4,sputnik,"['scifi', 'horror']",0,1,0,0,0,1,0,0,0
+5,thecore,"['disaster', 'scifi']",1,1,0,0,0,0,0,0,0
+6,thediscovery,"['scifi', 'romance']",0,1,0,0,0,0,1,0,0
+7,theedgeofseventeen,['comedy'],0,0,0,1,0,0,0,0,0
+8,thefastandthefurioustokyodrift,['action'],0,0,0,0,1,0,0,0,0
+9,thefinalmaster,"['action', 'martialarts']",0,0,0,0,1,0,0,0,1
+10,thekissingbooth,"['comedy', 'romance']",0,0,0,1,0,0,1,0,0
+11,theperfectstorm,['disaster'],1,0,0,0,0,0,0,0,0
+12,thephotograph,['romance'],0,0,0,0,0,0,1,0,0
+13,thering,['horror'],0,0,0,0,0,1,0,0,0
+14,theseventhadventuresofsinbad,['adventure'],0,0,1,0,0,0,0,0,0
+15,thismeanswar,"['comedy', 'spy']",0,0,0,1,0,0,0,1,0
+16,triplefrontier,"['adventure', 'action']",0,0,1,0,1,0,0,0,0
+17,tronlegacy,"['scifi', 'action']",0,1,0,0,1,0,0,0,0
+18,vampiresvsthebronx,"['comedy', 'horror']",0,0,0,1,0,1,0,0,0
+19,womb,['scifi'],0,1,0,0,0,0,0,0,0
+20,worldwarz,"['action', 'horror']",0,0,0,0,1,1,0,0,0
+21,zoolander2,"['comedy', 'action']",0,0,0,1,1,0,0,0,0
